@@ -1,5 +1,5 @@
 # 🎯💻Daily-Coding-DS-ALGO-Practice🏆🏅
-This repository contains all the popular practice questions which i practice daily.
+This repository contains all the popular practice questions which i practice .
  <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/blob/main/images/manufacturetocat.png" width=400px, height=400px 
  </a> 
